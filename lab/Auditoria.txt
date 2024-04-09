@@ -1,0 +1,66 @@
+ 
+Auditoría WEB IKEA.
+
+Verificar la accesibilidad de una web de vuestra elección con:
+
+- Wave (online o extensión de navegador) (CHROME O FIREFOX)
+
+
+- LightHouse (EXTENSIÓN CHROME)
+
+
+A partir de ahí, resumir las conclusiones principales de las auditorías de accesibilidad de esa web
+(redactarlo y entregarlo)
+
+RESPUESTA:
+
+- WAVE:
+
+Incorrecto:
+
+Se encuentra con 18  errores de anclaje  de imagen con el texto en página principal.
+Hay 2  secciones o divs sin  título o texto .
+2 botones vacios, sin uso.
+Se encuentra  100 alertas de  mucho texto o links repetitivos.
+Fallo  al cargar el chat SYNDEO, desactivado.
+Mucho uso de "var" dentro de funcione.
+Barra desplazamiento entre productos muy fina, se ve poco.
+
+
+Correcto:
+
+Tiene buen orden.
+Estructura correcta.
+Buen contraste "AAA" y "AA".
+Se puede usar el screen reader y tiene un orden establecido.
+Cuenta con diferentes fotos para previsualizar.
+Es una página rápida, bien  optimizada.
+Opcion 3D en los productos
+Header sencillo, sin muchas imagenes y fácil de usar, intuitivo
+
+
+- LightHouse:
+
+Incorrecto:
+
+Puede mejorar el  tiempo que tarda javascript en ejecucion, compilacion, parsing(analizar/representa la estructura de los textos).
+Elementos de imagen diferentes tamaños , tardan más timepo de lo normal en cargar.
+fallo al avanzar /retrasar pagina, se pierde información.
+Imagenes no tienen atributo "alt", links no tienen un nombre (seguramente por tener varios objetos).
+Alguna terminología, característica, diseño o práctica, normalmente porque ha sido desplazada por otra o porque se considera menos eficiente o segura.
+
+
+Correcto:
+
+Uso de seguridad correcta (SCP) para  reducir riesgo de scripting(XSS).
+Se puede usar el screen reader y tiene un orden establecido.
+Cuenta con diferentes fotos para previsualizar.
+Es una página rápida, bien  optimizada.
+Opcion 3D en los productos
+Header sencillo, sin muchas imagenes y fácil de usar, intuitivo
+
+
+Conclusión:
+
+La página de Ikea , es una página bien optimizada  con buena accesibilidad y utilidad, presenta algunos fallos  en elementos de imagen (descripción,definir height ,lenght), como tambien en algunos links de anclaje y algun otro repetitivo, fallos en algún boton.
+Obtiene buenas notas generales con respecto a otras webs con los dos programas, es apta para todo tipo de personas al tener una estructura organizada y opción de screen reader para ser más accesible. Buen posicionamiento SEO, buenos detalles de presentación y visualización muy  intuitivo,  con muchas opciones e informaciójn de todos los productos.

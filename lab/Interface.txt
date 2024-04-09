@@ -1,0 +1,12 @@
+2- Sobre interface de usuario:
+
+Ves a la web https://userinyerface.com/
+
+e intenta completar el formulario. Apunta cuánto tiempo has necesitado para completarlo. ¿Qué has aprendido? ¿Cuáles son tus conclusiones?.
+
+He tardado  unos 30 minutos para completarlo.
+Es complicado de entender no hay un orden ... elementos que se contradicen o que no estan en el sitio adecuado.
+Hay ventanas como el "alert" que no tienen bien puestos los botones , la de ayuda desaparce muy lentamente y tampoco funciona.
+La última pantalla  tienes que elegir entre varias figuras , pero no funciona.. al final tienes que marcarlo todo.
+
+Conclusiones....una página que no es nada accesible, no es intuitiva, no tiene ayuda  y que utiliza colores poco agradables , te estresa con el reloj ... hace que te aburras y lo dejes.
